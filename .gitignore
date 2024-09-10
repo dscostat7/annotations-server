@@ -1,0 +1,4 @@
+.env
+/.migrations
+/.vscode
+/node_modules
