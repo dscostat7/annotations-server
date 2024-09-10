@@ -7,7 +7,7 @@
     "seed": "tsx --env-file .env src/db/seed.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Diego Souza",
   "license": "ISC",
   "description": "",
   "devDependencies": {
